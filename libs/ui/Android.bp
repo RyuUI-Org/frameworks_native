@@ -137,6 +137,7 @@ cc_library_shared {
         "GraphicBuffer.cpp",
         "GraphicBufferAllocator.cpp",
         "GraphicBufferMapper.cpp",
+        "PictureProfileHandle.cpp",
         "PixelFormat.cpp",
         "PublicFormat.cpp",
         "StaticAsserts.cpp",
